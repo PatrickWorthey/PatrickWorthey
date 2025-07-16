@@ -1,5 +1,30 @@
 # Patrick Worthey
 
+```python
+class SecurityAnalyst:
+    """A blueprint for how I approach security problems professionally."""
+
+    def __init__(self):
+        self.skills = ["DFIR", "Python", "KQL", "Automation"]
+        self.mindset = ["Practical", "Analytical", "Growth-Oriented"]
+        self.goals = ["Build", "Defend", "Share"]
+
+    def work(self):
+        """Drive toward each goal by solving real-world problems."""
+        for goal in self.goals:
+            self.solve_real_problems(goal)
+
+    def solve_real_problems(self, goal):
+        """Simulate executing a mission-oriented task."""
+        print(f"Executing: {goal}")
+
+
+# Instantiate and execute the security engineering loop
+patrick = SecurityAnalyst()
+patrick.work()
+
+```
+
 Welcome. This GitHub is my professional portfolio and development environment. A space dedicated to practical cybersecurity tooling, analysis workflows, and continuous technical growth.
 
 My focus areas include building automation for digital forensics and incident response (DFIR), writing custom detection and hunting queries, and exploring how modern AI can be responsibly leveraged to improve efficiency and effectiveness in day-to-day security operations.
