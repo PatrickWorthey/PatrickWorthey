@@ -47,7 +47,7 @@ This area explores how local LLMs and automation frameworks can support security
 ### Beginner Cyber Hub
 While my professional focus is on advanced capability building, I maintain one dedicated space to support those who are just starting out. This repository includes annotated scripts, foundational concepts, and practical advice based on my own entry into the field. It reflects a core belief: growth should be shared.
 
-### Working Projects and Study Builds
+### Working Projects and Skill Development
 This section documents active learning projects used to deepen my technical knowledge. Some are based on challenge sets, textbooks, or reconstructed examples from trusted sources. Others are personal implementations developed during study or certification prep. The aim is to demonstrate how I approach problems, structure my learning, and translate that into code.
 
 ---
