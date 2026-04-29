@@ -1,50 +1,10 @@
 # Patrick Worthey
 
-```python
-class InsiderThreatAnalyst:
-    """A blueprint for how I approach insider threat and security investigations."""
+Greetings! This GitHub is my professional portfolio and development space focused on Insider Threat, behavioral risk detection, digital investigations, KQL, and repeatable investigative processes.
 
-    def __init__(self):
-        self.focus = [
-            "Insider Threat",
-            "Behavioral Risk Detection",
-            "DFIR",
-            "KQL",
-            "Analyst Automation"
-        ]
-        self.mindset = [
-            "Curious",
-            "Evidence-Based",
-            "Fair",
-            "Practical",
-            "Growth-Oriented"
-        ]
-        self.mission = [
-            "Understand Behavior",
-            "Bridge Gaps",
-            "Support Analysts",
-            "Share What I Learn"
-        ]
+My work sits at the intersection of user behavior, investigative tradecraft, detection logic, and repeatable processes. I am interested in how analysts can better understand activity in context, identify meaningful behavioral indicators, and develop professional skills.
 
-    def investigate(self):
-        """Turn activity, context, and evidence into meaningful investigative leads."""
-        for objective in self.mission:
-            self.build_with_purpose(objective)
-
-    def build_with_purpose(self, objective):
-        print(f"Working toward: {objective}")
-
-
-patrick = InsiderThreatAnalyst()
-patrick.investigate()
-
-```
-
-Greetings! This GitHub is my professional portfolio and development space focused on Insider Threat, behavioral risk detection, digital investigations, KQL, and investigative process improvement.
-
-My work sits at the intersection of user behavior, investigative tradecraft, detection logic, and repeatable processes. I am interested in how analysts can better understand activity in context, identify meaningful behavioral indicators, and turn raw telemetry into defensible investigative findings.
-
-I also care deeply about making cybersecurity more approachable. This space is designed to support both working analysts and people who are still building their foundation. My goal is to share practical examples, plain language explanations, and resources that help others grow with confidence.
+I also care deeply about making cybersecurity more approachable. This space is designed to support both working analysts and people who are still building their foundation. My goal is to share practical examples, plain language explanations, and resources that help others grow with confidence, while also reflecting my own commitment to continuous learning, skill development, and thoughtful growth as a cybersecurity professional.
 
 ---
 
@@ -122,6 +82,18 @@ This area may include:
 9. Lessons learned from case management
 10. Practical ways to reduce analyst friction
 
+### Insider Threat Philosophy
+
+Insider Threat work is not just about finding malicious users.
+
+It is about understanding behavior, context, access, pressure, opportunity, and risk. It requires technical skill, but it also requires fairness, discipline, patience, and sound judgment.
+
+A single event rarely tells the full story. A download, login, file transfer, forwarding rule, or policy violation may be meaningful, or it may be benign. The analyst’s responsibility is to understand the context, gather evidence carefully, and avoid jumping to conclusions before the facts support them.
+
+I believe strong Insider Threat programs should protect the organization while also protecting the integrity of the investigative process.
+
+That means using evidence carefully, documenting clearly, tuning detections thoughtfully, and treating behavioral indicators as leads that require context rather than assumptions that prove intent.
+
 ### Python for Security Analysts
 My Python projects are focused on helping analysts work more effectively. That may include parsing logs, cleaning data, extracting indicators, formatting evidence, creating case artifacts, or reducing repetitive manual steps within an investigation.
 
@@ -139,28 +111,15 @@ This section explores how AI can support security analysts in practical and resp
 
 The goal is to improve thinking, not outsource it.
 
-### Insider Threat Philosophy
-
-Insider Threat work is not just about finding malicious users.
-
-It is about understanding behavior, context, access, pressure, opportunity, and risk. It requires technical skill, but it also requires fairness, discipline, patience, and sound judgment.
-
-A single event rarely tells the full story. A download, login, file transfer, forwarding rule, or policy violation may be meaningful, or it may be benign. The analyst’s responsibility is to understand the context, gather evidence carefully, and avoid jumping to conclusions before the facts support them.
-
-I believe strong Insider Threat programs should protect the organization while also protecting the integrity of the investigative process.
-
-That means using evidence carefully, documenting clearly, tuning detections thoughtfully, and treating behavioral indicators as leads that require context rather than assumptions that prove intent.
-
-
 ---
 ### Professional Intent
 
 This GitHub exists to serve four purposes.
 
-First, it is a professional portfolio that reflects my work in Insider Threat, digital investigations, KQL, DFIR, and investigative process improvement.
+First, to be a professional portfolio that reflects my work in Insider Threat, digital investigations, KQL, DFIR, and investigative process improvement.
 
-Second, it is a place to document my own growth as I continue developing deeper technical and investigative skills.
+Second, document my own growth as I continue developing deeper technical and investigative skills.
 
 Third, it is a resource for other analysts, especially those who are learning how to think through security problems with structure and confidence.
 
-Fourth, it is the foundation for a broader body of work around behavioral risk, Insider Threat tradecraft, responsible investigation, and cybersecurity program maturity.
+Fourth, provide a foundation for a broader body of work around behavioral risk, Insider Threat tradecraft, responsible investigation, and cybersecurity program maturity.
